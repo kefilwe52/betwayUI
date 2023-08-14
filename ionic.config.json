@@ -1,0 +1,7 @@
+{
+  "name": "BetwayApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,23 @@
+.header {
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+}
+
+.header img.logo {
+    height: 40px;
+}
+
+ion-button.login-btn {
+    background-color: green !important;
+    color: white !important;
+    margin-right: 10px;
+}
+
+.signup-btn {
+    background-color: white;
+    color: green;
+}
