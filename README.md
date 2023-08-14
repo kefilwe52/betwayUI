@@ -3,7 +3,7 @@
 
 ## Description
 
-Betway UI is a modern frontend application for the Betway platform, crafted using the power of React combined with the flexibility of the Ionic framework. This application aims to provide users with an intuitive and responsive experience across various devices, ensuring seamless navigation and interaction.
+Betway UI is a modern frontend application for the Betway platform, crafted using the power of React combined with the flexibility of the Ionic framework. This application aims to provide users with a responsive experience across various devices
 
 ## Prerequisites
 
